@@ -1,14 +1,13 @@
 
 #### Hello 👏
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jianxin2021-CHN&show_icons=true&theme=gruvbox_light" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jianxin2021-CHN&show_icons=true&theme=default" />
 
 
 > I am an undergraduate student of *Intelligence Science and Technology* in *Ocean University of China*.
 - 🌱 I’m currently learning **français**.
 - 🔭 I’m currently working on **Few-Shot Learning**.
 - 👯 I'm interested in *Deep Learning*.
-- 💬 Ask me about everything you want.
-- ⚡ Fun fact: I've been slacking off for a long time.
+- ⚡ Fun fact: I've been slacking off.
 
 <!--
 **Jianxin2021-CHN/Jianxin2021-CHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
