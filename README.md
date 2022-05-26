@@ -1,6 +1,7 @@
 
 #### Hello 👏
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jianxin2021-CHN&show_icons=true&theme=default" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jianxin2021-CHN&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 
 > I am an undergraduate student of *Intelligence Science and Technology* in *Ocean University of China*.
@@ -23,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
