@@ -6,9 +6,9 @@
 
 > I am an undergraduate student of *Intelligence Science and Technology* in *Ocean University of China*.
 - 🌱 I’m currently learning **français**.
-- 🔭 I’m currently working on **Few-Shot Learning**.
-- 👯 I'm interested in *Deep Learning*.
-- ⚡ Fun fact: I've been slacking off.
+- 🔭 I’m currently working on **Cross Domain Few-Shot Learning**.
+- 👯 I'm interested in *Deep Learning* and *Computer Vision*.
+- ⚡ Fun fact: I've been slacking off for a long time.
 
 <!--
 **Jianxin2021-CHN/Jianxin2021-CHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
