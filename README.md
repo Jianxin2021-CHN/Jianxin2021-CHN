@@ -5,7 +5,7 @@
 
 > I'm currently working towards the **Doctor of Engineering (D.Eng)** with _Ocean University of China_ and _Pilot National Laboratory for Marine Science and Technology (Qingdao)_. 🌊🌊🌊
 - 🌱 I'm interested in **AI for Marine Science**.
-- ⚡ Keys: _Computer Science_, _Artificial Intelligence_, _Physical Oceanography_
+- ⚡ Keys: _Computer Science_, _Artificial Intelligence_, _Physical Oceanography_, _Ocean Technology_
 
 <!--
 **Jianxin2021-CHN/Jianxin2021-CHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
