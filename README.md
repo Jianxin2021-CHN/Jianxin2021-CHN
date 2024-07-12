@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jianxin2021-CHN&show_icons=true" alt="logo" height="158" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-I'm currently working towards the **Doctor of Engineering (D.Eng)** with _Ocean University of China_ and _Laoshan Laboratory_. 🌊🌊🌊
+I'm currently working towards the **Doctor of Engineering (D.Eng)** with _Ocean University of China_. 🌊🌊🌊
 - 🌱 I'm interested in **AI for Marine Science**.
 - ⚡ Keys: _Computer Science_, _Artificial Intelligence_, _Electrical Engineering_, _Physical Oceanography_, _Ocean Acoustics_
 
